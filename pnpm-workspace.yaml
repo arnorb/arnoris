@@ -1,0 +1,7 @@
+allowBuilds:
+  esbuild: true
+  workerd: true
+overrides:
+  # @napi-rs/wasm-runtime's peer resolved to a 2.0 beta that is incompatible with
+  # @emnapi/core 1.11.x and crashes `astro check`. Keep runtime in step with core.
+  "@emnapi/runtime": 1.11.3

@@ -1,0 +1,8 @@
+# Routes from the previous Nuxt site (crawled 2026-11-08). All go home.
+/verkefni        /  301
+/verkefni/       /  301
+/verkefni/*      /  301
+/um-mig          /  301
+/um-mig/         /  301
+/hafa-samband    /  301
+/hafa-samband/   /  301
