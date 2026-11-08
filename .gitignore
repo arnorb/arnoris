@@ -4,3 +4,4 @@ dist/
 .wrangler/
 .omc/
 .DS_Store
+.scratch/
